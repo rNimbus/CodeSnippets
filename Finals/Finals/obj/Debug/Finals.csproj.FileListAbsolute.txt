@@ -1,0 +1,13 @@
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\bin\Debug\Finals.exe
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\bin\Debug\Finals.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.DifficultiesGM2.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.exe
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.GameModes.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.Difficuties_ChoicesGM1.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.Addition.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.AdditionHard.resources
+C:\Users\User\Documents\SharpDevelop Projects\Finals\Finals\obj\Debug\Finals.AdditionAverage.resources
